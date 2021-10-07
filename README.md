@@ -36,34 +36,34 @@ The data we scraped does not contain all possible instances, as we did not scrap
 For each observation the following data is collected: 
 
 __CATEGORY DATA__
-● Average price change
-● Description
-● ID
-● Last Updated
-● Market Cap
-● Market Cap Change
-● Name
-● Number of Tokens
-● Title
-● Volume
-● Volume Change
+- Average price change
+- Description
+- ID
+- Last Updated
+- Market Cap
+- Market Cap Change
+- Name
+- Number of Tokens
+- Title
+- Volume
+- Volume Change
 
 __CRYPTOCURRENCY DATA__
-● CMC rank 
-● Date Added
-● Is active (yes/no)
-● Is fiat (yes/no)
-● Last updated
-● Maximum supply
-● Name
-● Number market pairs
-● Platform
-● Quote -> _(Fully diluted market cap, last updated, market cap, market cap dominance, %-change 1hour, %-change 24hours, %-change 30days, %-change 60days, %-change 7days, %-change 90days, price, volume 24hours)_
-● Slug
-● Symbol 
-● Tags
-● Total Supply
-● Circulating Supply
+- CMC rank 
+- Date Added
+- Is active (yes/no)
+- Is fiat (yes/no)
+- Last Updated
+- Maximum Supply
+- Name
+- Number of Market Pairs
+- Platform
+- Quote -> _(Fully diluted market cap, last updated, market cap, market cap dominance, %-change 1hour, %-change 24hours, %-change 30days, %-change 60days, %-change 7days, %-change 90days, price, volume 24hours)_
+- Slug
+- Symbol
+- Tags
+- Total Supply
+- Circulating Supply
 
 2.5
 
