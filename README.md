@@ -15,3 +15,79 @@ For generating this dataset, multiple relevant websites and API's were considere
 1.2
 
 This dataset is created by by team 7 of the course Online Data Collection and Management, consisting of Robbin de Waal, Efe Kiremitci, Sezen Birkan, Bram, and Xenia Tijssen. The course is provided by instructor Hannes Data, at Tilburg University.
+
+__2. Composition__
+
+2.1
+
+Each instance in the dataset represents a different cryptocurrency that we retrieve from the website. These cryptocurrencies are divided into categories. These categories are based on/linked to certain characteristics.
+
+2.2
+
+Cryptocurrencies: The dataset currently consists of 7114 different cryptocurrencies. However, this number is grow-ing every day. 
+Categories: there are 124 categories available.
+
+2.3 
+
+The data we scraped does not contain all possible instances, as we did not scrape all the cryptocurrencies available on the website. 
+
+2.4
+
+For each observation the following data is collected: 
+
+__CATEGORY DATA__
+● Average price change
+● Description
+● ID
+● Last Updated
+● Market Cap
+● Market Cap Change
+● Name
+● Number of Tokens
+● Title
+● Volume
+● Volume Change
+
+__CRYPTOCURRENCY DATA__
+● CMC rank 
+● Date Added
+● Is active (yes/no)
+● Is fiat (yes/no)
+● Last updated
+● Maximum supply
+● Name
+● Number market pairs
+● Platform
+● Quote -> _(Fully diluted market cap, last updated, market cap, market cap dominance, %-change 1hour, %-change 24hours, %-change 30days, %-change 60days, %-change 7days, %-change 90days, price, volume 24hours)_
+● Slug
+● Symbol 
+● Tags
+● Total Supply
+● Circulating Supply
+
+2.5
+
+Cryptocurrencies: these are labeled by name and a short abbreviation consisting of three letters.  
+Categories: Categories are labeled by name. 
+
+2.6
+
+There is no information missing on individual instances. 
+
+2.7
+
+The relationship between the individual instances is that they are all cryptocurrencies, subdivided into different categories based on certain characteristics. 
+
+2.8
+
+2.9
+
+The dataset is self contained.
+
+2.10
+
+All data inside the dataset is available to everyone and is therefore not considered as confidential. 
+
+2.11
+
+No, the dataset only contains cryptocurrencies and their characteristics. The dataset does not contain any data that might be considered offensive, insulting, threatening and the data will in no way cause anxiety. 
