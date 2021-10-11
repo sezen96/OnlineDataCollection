@@ -91,3 +91,20 @@ All data inside the dataset is available to everyone and is therefore not consid
 2.11
 
 No, the dataset only contains cryptocurrencies and their characteristics. The dataset does not contain any data that might be considered offensive, insulting, threatening and the data will in no way cause anxiety. 
+
+__5. Uses__
+
+5.1
+The dataset was created for educational purposes, and has not yet been used for any tasks.
+
+5.2
+The dataset has not yet been used in any papers or systems.
+
+5.3
+What (other) tasks could the datset be used for? ...
+
+5.4
+Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?
+
+5.5
+Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?
