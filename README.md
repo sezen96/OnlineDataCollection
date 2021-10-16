@@ -24,7 +24,7 @@ Each instance in the dataset represents a different cryptocurrency that we retri
 
 2.2
 
-Cryptocurrencies: The dataset currently consists of 7114 different cryptocurrencies. However, this number is grow-ing every day. 
+Cryptocurrencies: The dataset currently consists of 7114 different cryptocurrencies. However, this number is growing every day. 
 Categories: there are 124 categories available.
 
 2.3 
@@ -100,7 +100,7 @@ Wihtin the [documentation](https://coinmarketcap.com/api/documentation/v1/v) you
 In order to extract the coins within each category, you first need to understand how the data is layered (see docs\screenshots\). Extracting data on coins from a specific category requires an 'id'. This id is given after  extracting all the different categories listed on Coinmarketcap. With that said, first a function needs to be build to receive all categories uncluding their 'id'. Second, the id must be extracted and integrated in the function to extract cryptocurrencies within that category. Finally, the data needs to be parced and saved as a .csv.
 
 __4. Preprocessing__
-There was no need for preporessing. All the data listed on Coinmarketcap and the data extracted did not contain any personal infromation which eliminated the need to anonymize the data. After going through the extracted data, no implausible observations have been made which eliminated the need to do so as well.
+There was no need for preprocessing. All the data listed on Coinmarketcap and the data extracted did not contain any personal infromation which eliminated the need to anonymize the data. After going through the extracted data, no implausible observations have been made which eliminated the need to do so as well.
 
 __5. Uses__
 
@@ -111,10 +111,7 @@ The dataset was created for educational purposes, and has not yet been used for 
 The dataset has not yet been used in any papers or systems.
 
 5.3
-What (other) tasks could the datset be used for? ...
+The dataset can be used for a lot of different causes and tasks that involve crypto currencies. It can for example help with research about market values, dayly or weekly changes, price changes per category, or top gainers ratings. 
 
 5.4
-Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?
-
-5.5
-Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? For example, is there anything that a future user might need to know to avoid uses that could result in unfair treatment of individuals or groups (e.g., stereotyping, quality of service issues) or other undesirable harms (e.g., financial harms, legal risks) If so, please provide a description. Is there anything a future user could do to mitigate these undesirable harms?
+There is nothing about the composition of this dataset, or the way it was collected that could result in any form of unfair treatment or other undiserable harms. The dataset only contains publicly available cryptocurrency categories and their characteristics, which does not involve any data that could cause harm. 
