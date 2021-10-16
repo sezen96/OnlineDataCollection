@@ -97,8 +97,10 @@ __3. Collection processe__
 The collection process started with the end in mind, collecting the categories of different crytocurrencies. The website used for this process is coinmarketcap.com, a website which stores and displays current and historical data on a wide variety of crypto currencies. 
 Coinmarketcap offers and extensive [API](https://coinmarketcap.com/api) where amateur coders can sign up for free and use a limited amount of tokens to request data. 
 Wihtin the [documentation](https://coinmarketcap.com/api/documentation/v1/v) you will find an explanation on how to extract data from Coinmarketcap while running the API. One of the more important aspects of this ducmentation is the endpoint overview where you will find a variety of endpoints from which you can choose to pull the data.
-In order to extract the coins within each category, you first need to understand how the data is layered (see docs\screenshots\INSERT IMAGE NAMES HERE). Extracting data on coins from a specific category requires an 'id'. This id is given after  extracting all the different categories listed on Coinmarketcap. With that said, first a function needs to be build to receive all categories uncluding their 'id'. Second, the id must be extracted and integrated in the function to extract cryptocurrencies within that category. Finally, the data needs to be parced and saved as a .csv.
+In order to extract the coins within each category, you first need to understand how the data is layered (see docs\screenshots\). Extracting data on coins from a specific category requires an 'id'. This id is given after  extracting all the different categories listed on Coinmarketcap. With that said, first a function needs to be build to receive all categories uncluding their 'id'. Second, the id must be extracted and integrated in the function to extract cryptocurrencies within that category. Finally, the data needs to be parced and saved as a .csv.
 
+__4. Preprocessing__
+There was no need for preporessing. All the data listed on Coinmarketcap and the data extracted did not contain any personal infromation which eliminated the need to anonymize the data. After going through the extracted data, no implausible observations have been made which eliminated the need to do so as well.
 
 __5. Uses__
 
